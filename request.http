@@ -1,1 +1,5 @@
+### GET request with parameter
+GET https://httpbin.org/get?fname='Isabella'&lname='Akopyan'
+Accept: application/json
 
+<> 2023-04-27T133356.200.json
