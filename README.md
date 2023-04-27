@@ -56,6 +56,7 @@ stdnum — номер вашего студенческого билета. Не
 
 ![image](https://user-images.githubusercontent.com/82978703/234868031-9f6a518c-1363-4628-8a59-eeec78970ccc.png)
 
+Content-Type указывает на то, что переданные данные являются полями вебформы
 
 
 
