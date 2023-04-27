@@ -7,7 +7,7 @@
 разница?
 ### requests:
 
-![image](https://user-images.githubusercontent.com/82978703/234841952-21b4051c-545f-4d7b-aecb-fca049c5ef5c.png)
+![image](https://user-images.githubusercontent.com/82978703/234842574-54799092-359c-4af2-93d0-3291a5768de4.png)
 
 ### other way:
 
