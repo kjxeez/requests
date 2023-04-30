@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/82978703/234842081-a1b7d2f1-5be4-4db6-a114-fd5198ada82d.png)
 
 3. По какому адресу нужно совершить GET запрос, чтобы httpbin его корректно обработал?
-#### https://httpbin.org/get или  "url": "https://httpbin.org/get?fname='Isabella'&lname='Akopyan'"
+####   "url": "https://httpbin.org/get?fname='Isabella'&lname='Akopyan'"
 
 4. Отобразите заголовок HTTP ответа, который прислал вам сервер. Объясните назначение каждого из полей данного заголовка.
 
