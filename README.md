@@ -50,9 +50,7 @@ stdnum — номер вашего студенческого билета. Не
 
 7. Отобразите содержимое HTTP запроса (первую строку, заголовок и тело). Какое поле заголовка HTTP сообщения указывает, что переданные данные являются полями вебформы?
 
-![image](https://user-images.githubusercontent.com/82978703/234867780-1be0d0b9-83cf-4b68-918b-555848383523.png)
-![image](https://user-images.githubusercontent.com/82978703/234867890-a8f1775d-2ecb-4a59-b4bb-70b76940518a.png)
-![image](https://user-images.githubusercontent.com/82978703/234867950-ed2292fc-4ff8-451a-9d08-f478a6d17ba5.png)
+![image](https://user-images.githubusercontent.com/82978703/235382411-15d2c67e-8d56-4c00-a897-254481532db5.png)
 
 ![image](https://user-images.githubusercontent.com/82978703/234868031-9f6a518c-1363-4628-8a59-eeec78970ccc.png)
 
